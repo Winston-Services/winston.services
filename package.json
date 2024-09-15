@@ -1,0 +1,27 @@
+{
+  "name": "winston.services",
+  "version": "1.0.0",
+  "description": "Winston P2P Websocket network.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winston-Services/winston.services.git"
+  },
+  "keywords": [
+    "Crypto",
+    "P2P",
+    "Network"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winston-Services/winston.services/issues"
+  },
+  "homepage": "https://github.com/Winston-Services/winston.services#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
