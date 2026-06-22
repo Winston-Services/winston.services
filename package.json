@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Winston-Services/winston.services#readme",
   "dependencies": {
-    "ws": "^8.18.0"
+    "ws": "^8.21.0"
   }
 }
